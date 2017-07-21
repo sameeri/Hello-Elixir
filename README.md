@@ -12,4 +12,12 @@
   * Elixir
   
   
-  
+### Fundamentals
+
+
+### How I met Elixir?
+
+
+### Elixir 
+
+
