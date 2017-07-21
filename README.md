@@ -1,2 +1,9 @@
 # Hello-Elixir
-Elixir Talk
+
+
+### Talk
+
+* Outline
+  * Fundamentals
+  * How I met Elixir?
+  * Elixir
